@@ -9,11 +9,11 @@ This course introduces key operating system concepts such as processes, threads,
    
 # Course Objectives:
    ● Introduce operating system concepts (i.e., processes, threads, scheduling, synchronization,deadlocks, memory management, file and I/O subsystems andprotection)
-   ● Introduce the issues to be considered in the design and development of operating system
-   ● Introduce basic Unix commands, system call interface for process management,interprocesscommunication and I/O in Unix
+   ● Introduce the issues to be considered in the design and development of operating system.
+   ● Introduce basic Unix commands, system call interface for process management,interprocesscommunication and I/O in Unix.
 
 # Course Outcomes:
-   ● Will be able to control access to a computer and the files that may be shared
+   ● Will be able to control access to a computer and the files that may be shared.
    ● Demonstrate the knowledge of the components of computers and their respectiveroles incomputing.
    ● Ability to recognize and resolve user problems with standard operating environments.
    ● Gain practical knowledge of how programming languages, operating systems,andarchitectures interact and how to use each effectively.
