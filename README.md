@@ -45,14 +45,10 @@ This course introduces key operating system concepts such as processes, threads,
 # UNIT - IV
 # Memory Management and Virtual Memory: [CHAPTER 9, 10]
   - Logical versus Physical Address Space, Swapping, Contiguous Allocation, Paging, Segmentation, Segmentation with Paging, DemandPaging, Page Replacement, Page Replacement Algorithms.
-1. Operating Systems- Internals and Design Principles, William Stallings, Fifth Edition–2005, Pearson Education/PHI
-2. OperatingSystem A Design Approach- Crowley, TMH.
-3. Modern Operating Systems, Andrew S. Tanenbaum 2nd edition, Pearson/PHI
-4. UNIX programming environment, Kernighan and Pike, PHI/ Pearson Education
-5. UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education.
+    
 # UNIT - V
 # File System Interface and Operations: [CHAPTER 13, 14]
-  -Access methods, Directory Structure, Protection, File System Structure, Allocation methods, Free-space Management. Usage of open, create, read, write, close, lseek, stat, ioctl system calls.
+  - Access methods, Directory Structure, Protection, File System Structure, Allocation methods, Free-space Management. Usage of open, create, read, write, close, lseek, stat, ioctl system calls.
 
 # PRESCRIBED TEXT BOOKS:
    1. Operating System Principles- Abraham Silberchatz, Peter B. Galvin, Greg Gagne 7th Edition,John Wiley.
