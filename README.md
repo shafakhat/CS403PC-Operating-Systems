@@ -8,15 +8,15 @@ This course introduces key operating system concepts such as processes, threads,
    2. A course on “Computer Organization and Architecture”.
    
 # Course Objectives:
-   ● Introduce operating system concepts (i.e., processes, threads, scheduling, synchronization,deadlocks, memory management, file and I/O subsystems andprotection)
-   ● Introduce the issues to be considered in the design and development of operating system.
-   ● Introduce basic Unix commands, system call interface for process management,interprocesscommunication and I/O in Unix.
+   1. Introduce operating system concepts (i.e., processes, threads, scheduling, synchronization,deadlocks, memory management, file and I/O subsystems andprotection)
+   2. Introduce the issues to be considered in the design and development of operating system.
+   3. Introduce basic Unix commands, system call interface for process management,interprocesscommunication and I/O in Unix.
 
 # Course Outcomes:
-   ● Will be able to control access to a computer and the files that may be shared.
-   ● Demonstrate the knowledge of the components of computers and their respectiveroles incomputing.
-   ● Ability to recognize and resolve user problems with standard operating environments.
-   ● Gain practical knowledge of how programming languages, operating systems,andarchitectures interact and how to use each effectively.
+   1. Will be able to control access to a computer and the files that may be shared.
+   2. Demonstrate the knowledge of the components of computers and their respectiveroles incomputing.
+   3. Ability to recognize and resolve user problems with standard operating environments.
+   4. Gain practical knowledge of how programming languages, operating systems,andarchitectures interact and how to use each effectively.
 
 # SYLLABUS:
 
@@ -32,7 +32,7 @@ This course introduces key operating system concepts such as processes, threads,
 # CPU Scheduling: [CHAPTER 5]  
   - Scheduling Criteria, Scheduling Algorithms, Multi-Processor Scheduling.
 # System call interface for process management: [CHAPTER 2]
-  -fork, exit, wait, waitpid, exec
+  - fork, exit, wait, waitpid, exec
 # Deadlocks: [CHAPTER 8]  
   - System Model, Deadlocks Characterization, Methods for Handling Deadlocks,Deadlock Prevention, Deadlock Avoidance, Deadlock Detection, and Recovery from Deadlock.
 
