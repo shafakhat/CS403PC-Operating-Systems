@@ -2,26 +2,24 @@
 
 # Description:
 This course introduces key operating system concepts such as processes, threads, scheduling, synchronization, memory management, and file I/O subsystems. It covers Unix commands and system calls for process management, interprocess communication, and I/O. Students will gain hands-on experience in managing and interacting with Unix systems.
+
 # Prerequisites:
-1. A course on “Computer Programming and Data Structures”.1. Operating Systems- Internals and Design Principles, William Stallings, Fifth Edition–2005, Pearson Education/PHI
-2. OperatingSystem A Design Approach- Crowley, TMH.
-3. Modern Operating Systems, Andrew S. Tanenbaum 2nd edition, Pearson/PHI
-4. UNIX programming environment, Kernighan and Pike, PHI/ Pearson Education
-5. UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education.
-2. A course on “Computer Organization and Architecture”.
+   1. A course on “Computer Programming and Data Structures”.
+   2. A course on “Computer Organization and Architecture”.
    
 # Course Objectives:
-● Introduce operating system concepts (i.e., processes, threads, scheduling, synchronization,deadlocks, memory management, file and I/O subsystems andprotection)
-● Introduce the issues to be considered in the design and development of operating system
-● Introduce basic Unix commands, system call interface for process management,interprocesscommunication and I/O in Unix
+   ● Introduce operating system concepts (i.e., processes, threads, scheduling, synchronization,deadlocks, memory management, file and I/O subsystems andprotection)
+   ● Introduce the issues to be considered in the design and development of operating system
+   ● Introduce basic Unix commands, system call interface for process management,interprocesscommunication and I/O in Unix
 
 # Course Outcomes:
-● Will be able to control access to a computer and the files that may be shared
-● Demonstrate the knowledge of the components of computers and their respectiveroles incomputing.
-● Ability to recognize and resolve user problems with standard operating environments.
-● Gain practical knowledge of how programming languages, operating systems,andarchitectures interact and how to use each effectively.
+   ● Will be able to control access to a computer and the files that may be shared
+   ● Demonstrate the knowledge of the components of computers and their respectiveroles incomputing.
+   ● Ability to recognize and resolve user problems with standard operating environments.
+   ● Gain practical knowledge of how programming languages, operating systems,andarchitectures interact and how to use each effectively.
 
 # SYLLABUS:
+
 # UNIT - I
 # Operating System [CHAPTER 1]
   - Introduction, 
