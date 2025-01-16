@@ -3,7 +3,11 @@
 # Description:
 This course introduces key operating system concepts such as processes, threads, scheduling, synchronization, memory management, and file I/O subsystems. It covers Unix commands and system calls for process management, interprocess communication, and I/O. Students will gain hands-on experience in managing and interacting with Unix systems.
 # Prerequisites:
-1. A course on “Computer Programming and Data Structures”.
+1. A course on “Computer Programming and Data Structures”.1. Operating Systems- Internals and Design Principles, William Stallings, Fifth Edition–2005, Pearson Education/PHI
+2. OperatingSystem A Design Approach- Crowley, TMH.
+3. Modern Operating Systems, Andrew S. Tanenbaum 2nd edition, Pearson/PHI
+4. UNIX programming environment, Kernighan and Pike, PHI/ Pearson Education
+5. UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education.
 2. A course on “Computer Organization and Architecture”.
    
 # Course Objectives:
@@ -43,10 +47,22 @@ This course introduces key operating system concepts such as processes, threads,
 # UNIT - IV
 # Memory Management and Virtual Memory: [CHAPTER 9, 10]
   - Logical versus Physical Address Space, Swapping, Contiguous Allocation, Paging, Segmentation, Segmentation with Paging, DemandPaging, Page Replacement, Page Replacement Algorithms.
-
+1. Operating Systems- Internals and Design Principles, William Stallings, Fifth Edition–2005, Pearson Education/PHI
+2. OperatingSystem A Design Approach- Crowley, TMH.
+3. Modern Operating Systems, Andrew S. Tanenbaum 2nd edition, Pearson/PHI
+4. UNIX programming environment, Kernighan and Pike, PHI/ Pearson Education
+5. UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education.
 # UNIT - V
 # File System Interface and Operations: [CHAPTER 13, 14]
   -Access methods, Directory Structure, Protection, File System Structure, Allocation methods, Free-space Management. Usage of open, create, read, write, close, lseek, stat, ioctl system calls.
 
-TEXT BOOKS:
-1. Operating System Principles- Abraham Silber
+# PRESCRIBED TEXT BOOKS:
+   1. Operating System Principles- Abraham Silberchatz, Peter B. Galvin, Greg Gagne 7th Edition,John Wiley.
+   2. Advanced programming in the UNIX environment, W.R. Stevens, Pearson education.
+
+# REFERENCE BOOKS:
+   1. Operating Systems- Internals and Design Principles, William Stallings, Fifth Edition–2005, Pearson Education/PHI
+   2. OperatingSystem A Design Approach- Crowley, TMH.
+   3. Modern Operating Systems, Andrew S. Tanenbaum 2nd edition, Pearson/PHI
+   4. UNIX programming environment, Kernighan and Pike, PHI/ Pearson Education
+   5. UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education.
