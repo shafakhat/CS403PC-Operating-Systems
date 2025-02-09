@@ -22,11 +22,11 @@ This course introduces key operating system concepts such as processes, threads,
 
 # UNIT - I
 # Operating System [CHAPTER 1]
-  - Introduction, 
-# Structures [CHAPTER 1]
-  - Simple Batch, Multiprogrammed, Timeshared, Personal Computer, Parallel, Distributed Systems, Real-Time Systems, System components, Operating System services, System Calls. 
+  - Introduction, Simple Batch, Multiprogrammed, Timeshared, Personal Computer, Parallel, Distributed Systems, Real-Time Systems, System components.
+# Operating System Structures [CHAPTER 2]
+  -Operating System services, System Calls, Structures.  
 # Processes [CHAPTER 3]
-  - Process concepts and scheduling, Operations on processes, Cooperating Processes, Threads.
+  - Process concepts and scheduling, Operations on processes, Threads, Cooperating Processes.
 
 # UNIT - II
 # CPU Scheduling: [CHAPTER 5]  
